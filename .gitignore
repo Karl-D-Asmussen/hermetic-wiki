@@ -1,2 +1,5 @@
 http/
 http/*
+*.png
+*.jpg
+*.gif
