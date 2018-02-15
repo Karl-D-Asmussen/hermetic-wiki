@@ -1,0 +1,28 @@
+% Floating Field
+<!-- CATEGORY technologies -->
+
+Hermetosympathetic apparatus, by which the properties of
+Archimedian flotation in a liquid sample are extended ex nihilo to cover a
+well-defined volume.
+
+In the simplest form, a floating field simply displaces matter,
+up to and including atmospheric air. However, due to TK the energy
+requirement to do so is quite immense.
+
+Is most often keyed to certain objects --- often not including gasses ---
+such as to limit energy consumption.
+
+Common applications:
+
+- Separation of grandular material.
+- Sleeping arrangement.
+- Low-friction transportation.
+
+Common liquid samples:
+
+- Propane
+- Gasoline
+- Water
+- Saturated salt water
+- Bromine
+- Mercury

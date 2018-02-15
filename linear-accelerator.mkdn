@@ -1,0 +1,19 @@
+% Linear Accelerator
+<!-- CATEGORY technologies -->
+
+A linear accelerator is a length of pipe, upon which are inscribed formulas of
+Newtonian force fields.
+
+In the most primitive form, these force fields work on all matter inside the barrel,
+even atmospheric air. However, this causes a significant wind to blow through the accelerator,
+and with it a singinficant energy expenditure. For this reason, most accelerators are toggelable
+and designed to ignore gasses and in some cases liquids or solids too.
+
+By expending stored energy, a linear accelerator can accelerate a payload to most any velocity.
+
+Common applications:
+
+- Ventilation.
+- Liquid projection.
+- Artillery and ballistic weapons.
+- Parcel delivery tubes.
