@@ -1,0 +1,33 @@
+% Magic Systems
+
+# Vancean Spellcasting
+
+- Power of the mind.
+
+# Hermeneutic Alchemy
+
+- Chemistry
+- Physics
+- Technology
+- Power of diagrams.
+
+# The Arts
+
+- Contracts with _other._
+- Power of the pact.
+
+# Augury
+
+- Oracular visions
+- Psychometry
+- Empathy
+- Power of love.    
+
+# Apophenism
+
+- Bardic?
+- Omen-reading
+- Story tropes
+- Power of narrative.
+
+<!-- CATEGORY notes -->
