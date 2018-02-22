@@ -40,6 +40,8 @@ function wiki-format-reference {
 
 function wiki-category-listing {
   if egrep -qe $LCOM$CAT$RCOM $SOURCE/$1.mkdn; then
+    echo >> $TARGET/$1.mkdn
+    echo >> $TARGET/$1.mkdn
     echo '# Category Pages' >> $TARGET/$1.mkdn
     for file in $(wiki-files-category $1); do
       wiki-format-reference $file >> $TARGET/$1.mkdn
@@ -49,6 +51,7 @@ function wiki-category-listing {
 
 function wiki-member-listing {
   if egrep -qe $LCOM$CAT$ANY$RCOM $SOURCE/$1.mkdn; then
+    echo >> $TARGET/$1.mkdn
     echo >> $TARGET/$1.mkdn
     echo '# Listed Under' >> $TARGET/$1.mkdn
     for file in $(wiki-file-categories $1); do
@@ -110,6 +113,7 @@ JS
 
 function wiki-add-js {
   echo >> $TARGET/$1.mkdn
+  echo >> $TARGET/$1.mkdn
   echo "<script src=\"./redlinks.js\"></script>" >> $TARGET/$1.mkdn
 }
 
@@ -121,10 +125,12 @@ function wiki-pandoc {
 
 function wiki-listings {
   echo >> $TARGET/$1.mkdn
+  echo >> $TARGET/$1.mkdn
   echo '# Categories' >> $TARGET/$1.mkdn
   for file in $(wiki-categories); do
     wiki-format-reference $file >> $TARGET/$1.mkdn
   done
+  echo >> $TARGET/$1.mkdn
   echo >> $TARGET/$1.mkdn
   echo '# Pages' >> $TARGET/$1.mkdn
   for file in $(wiki-files); do
