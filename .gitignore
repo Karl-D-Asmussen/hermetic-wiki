@@ -3,3 +3,4 @@ http/*
 *.png
 *.jpg
 *.gif
+.irb_history
