@@ -1,5 +1,8 @@
 #! /usr/bin/zsh
 
+if [[ ! $SOURCE ]]; then SOURCE=. ; fi
+if [[ ! $TARGET ]]; then TARGET=./http ; fi
+
 LCOM='<!--\s+'
 RCOM='-->'
 SP='\s+'
