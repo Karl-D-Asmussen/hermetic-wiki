@@ -5,7 +5,9 @@
 - Mockery
 - Simulacrum
 - De Jure 
-- 
+- Vokox
+- Qeuphias
+- Symbol symbolorum !!!
 
 # Magic
 
