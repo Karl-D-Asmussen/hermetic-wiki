@@ -2,17 +2,17 @@
 
 # Setting
 
-- Mockery
-- Simulacrum
-- De Jure 
-- Vokox
-- Qeuphias
-- Symbol symbolorum !!!
+- _Symbolum Symbolorum,_ the symbol of symbols
 
 # Magic
 
-- Vancean:
-- Hermeneutic Alchemy:
-- Bargain Shamanism/Diabolism:
-- Apophenism/Bardic:
-- Empathic/Oracular:
+## Vancean/Paracosm
+
+## Hermetic/Alchemical/Nominal
+
+## Goetic/Shamanistic/Judicial
+
+## Bardic/Kabbalha/Apophenic
+
+## Oracular/Empathic
+
