@@ -1,0 +1,17 @@
+% Playing God
+<!-- CATEGORY -->
+
+* Edelbert Verikus  
+  Average height, athletic build, black of hair, long curls, tan skin, light brown/amber eyes.  
+  Dramatic flair.  
+  OCEAN: +,+,~,~,-
+
+* Albuin Verikus
+  Tall, lanky build, black of hair, short curls, tan skin, light brown/amber eyes.
+  Cynic flair.  
+  OCEAN: +,-,-,-,-
+
+* Winther Steinglocke
+  Average height, stocky build, brown of hair, short locks with cowlick, pale skin, green eyes
+  Practical-minded.  
+  OCEAN: +,+,+,~,+
