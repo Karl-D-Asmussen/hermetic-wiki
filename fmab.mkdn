@@ -1,12 +1,13 @@
 % Playing God
 <!-- CATEGORY -->
+<!-- CATEGORY stories -->
 
 * Adalinda "Ada" Verikus  
-  Girl, average height, athletic build, black of hair, long curls, tan skin, light brown/amber eyes.  
+  Girl, average height, athletic build, black of hair, long curls, tan skin, light brown/amber eyes. 
   Dramatic flair.  
-  OCEAN: +,+,~,~,-
+  OCEAN: +,+,\~,\~,-
 
-* Elfreide "Elfi" Verikus
+* Elfreide "Elfi" Verikus  
   Girl, tall, lanky build, black of hair, short curls, tan skin, light brown/amber eyes.
   Cynic flair.  
   OCEAN: +,-,-,-,-
@@ -14,6 +15,6 @@
 * Winfred "Winny" Steinglocke
   Boy, Average height, stocky build, brown of hair, short locks with cowlick, pale skin, green eyes
   Practical-minded.  
-  OCEAN: +,+,+,~,+
+  OCEAN: +,+,+,\~,+
 
 * Riesenboldt
